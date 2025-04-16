@@ -46,6 +46,7 @@ It allows two parties (creator and recipient) to safely exchange assets (coins a
         |    items & coin               |
         |  - Protocol gets fee          |
         |<------------------------------|
+```
 
 ## 🔁 Flow Overview
 
